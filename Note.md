@@ -86,8 +86,10 @@ Every action would inherit GAction code, and we declare the public parameters so
 ### 🔑 GPlanner
 + **BuildGraph** 
 	We use A* algorithm to find the cheapest plan.
+	We build nodes of temporary goals, tree of every actions. Every leaf refers to each **SubGoal**.
+
 	![](https://i.imgur.com/JTKHGlJ.png)
 	
-	We build nodes of temporary goals, tree of every actions. Every leaf refers to each **SubGoal**.
+	
 + **GPlanner**
 	GPlanner considers **actions of Gaction** and **usable Actions of Precondition and Postcondition** , return branch(leaves / actions) to attain SubGoals.
