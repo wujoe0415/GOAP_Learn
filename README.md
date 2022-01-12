@@ -78,20 +78,20 @@ Before then, the game designer had difficulty coding the scripts of AI. Because 
 
 **Implementation**
 
-[**F.E.A.R.**](http://en.wikipedia.org/wiki/F.E.A.R.) (X360/PS3/PC) - Monolith Productions/VU Games, 2005
-[**Condemned: Criminal Origins**](http://www.gamerankings.com/htmlpages2/926309.asp?q=condemned) (X360/PC) - Monolith Productions/Sega, 2005
-[**S.T.A.L.K.E.R.: Shadow of Chernobyl**](http://aigamedev.com/interviews/stalker-alife) (PC) - GSC Game World/THQ, 2007
-[**Mushroom Men: The Spore Wars**](http://devblog.redflystudio.com/games/) (Wii) - Red Fly Studio, 2008
-[**Ghostbusters**](http://devblog.redflystudio.com/games/) (Wii) - Red Fly Studio, 2008
-[**Silent Hill: Homecoming**](http://www.gamespot.com/xbox360/adventure/silenthill5/index.html) (X360/PS3) - Double Helix Games/Konami, 2008
-[**Fallout 3**](http://www.bit-tech.net/gaming/2009/03/05/how-ai-in-games-works/3) (X360/PS3/PC) - Bethesda Softworks, 2008
-[**Empire: Total War**](http://www.worthplaying.com/article.php?sid=57916) (PC) - Creative Assembly/SEGA, 2009
-[**F.E.A.R. 2: Project Origin**](http://www.gamasutra.com/view/feature/3887/the_technology_of_fear_2_an_.php?page=6) (X360/PS3/PC) - Monolith Productions/Warner Bros, 2009
-[**Demigod**](http://forums.demigodthegame.com/337968) (PC) - Gas Powered Games/Stardock, 2009
-[**Just Cause 2**](http://www.justcause2.com/) (PC/X360/PS3) - Avalanche Studios/Eidos Interactive, 2010
-[**Transformers: War for Cybertron**](http://en.wikipedia.org/wiki/Transformers:_War_for_Cybertron) (PC/X360/PS3) - High Moon Studios/Activision, 2010
-[**Trapped Dead**](http://www.trappeddead.com/) (PC) - Headup Games, 2011
-[**Deus Ex: Human Revolution**](http://www.gamespot.com/xbox360/action/deusex3/index.html?tag=result;title;2) (PC/X360/PS3) - Eidos Interactive, 2011
++ [**F.E.A.R.**](http://en.wikipedia.org/wiki/F.E.A.R.) (X360/PS3/PC) - Monolith Productions/VU Games, 2005
++ [**Condemned: Criminal Origins**](http://www.gamerankings.com/htmlpages2/926309.asp?q=condemned) (X360/PC) - Monolith Productions/Sega, 2005
++ [**S.T.A.L.K.E.R.: Shadow of Chernobyl**](http://aigamedev.com/interviews/stalker-alife) (PC) - GSC Game World/THQ, 2007
++ [**Mushroom Men: The Spore Wars**](http://devblog.redflystudio.com/games/) (Wii) - Red Fly Studio, 2008
++ [**Ghostbusters**](http://devblog.redflystudio.com/games/) (Wii) - Red Fly Studio, 2008
++ [**Silent Hill: Homecoming**](http://www.gamespot.com/xbox360/adventure/silenthill5/index.html) (X360/PS3) - Double Helix Games/Konami, 2008
++ [**Fallout 3**](http://www.bit-tech.net/gaming/2009/03/05/how-ai-in-games-works/3) (X360/PS3/PC) - Bethesda Softworks, 2008
++ [**Empire: Total War**](http://www.worthplaying.com/article.php?sid=57916) (PC) - Creative Assembly/SEGA, 2009
++ [**F.E.A.R. 2: Project Origin**](http://www.gamasutra.com/view/feature/3887/the_technology_of_fear_2_an_.php?page=6) (X360/PS3/PC) - Monolith Productions/Warner Bros, 2009
++ [**Demigod**](http://forums.demigodthegame.com/337968) (PC) - Gas Powered Games/Stardock, 2009
++ [**Just Cause 2**](http://www.justcause2.com/) (PC/X360/PS3) - Avalanche Studios/Eidos Interactive, 2010
++ [**Transformers: War for Cybertron**](http://en.wikipedia.org/wiki/Transformers:_War_for_Cybertron) (PC/X360/PS3) - High Moon Studios/Activision, 2010
++ [**Trapped Dead**](http://www.trappeddead.com/) (PC) - Headup Games, 2011
++ [**Deus Ex: Human Revolution**](http://www.gamespot.com/xbox360/action/deusex3/index.html?tag=result;title;2) (PC/X360/PS3) - Eidos Interactive, 2011
 
 ### Contrast
 
